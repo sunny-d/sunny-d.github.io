@@ -19,7 +19,7 @@ group :jekyll_plugins do
 end
 
 gem "jekyll-github-metadata"
-
+gem "nokogiri", ">= 1.10.8"
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
