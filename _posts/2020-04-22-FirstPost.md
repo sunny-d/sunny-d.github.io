@@ -1,5 +1,4 @@
 # Hello Readers!
 
-These sure are strange times. I am currently in middle school. To do school during the quarintine, I have to attend zoom meetings and basically stay on my computer until 11 (am). 
-
-Right now it's 9:43 pm, so I will go to sleep and continue probably tomorrow after school. I'm not sure.
+  Have you ever thought about the fact that married women have to change from Ms. to Mrs. and that married men don't? I first thought this a few days ago, and it got me thinking even more about things like this.
+  Another thing I've been thinking about 
